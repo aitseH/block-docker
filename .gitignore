@@ -1,0 +1,9 @@
+docker-compose/wordpress/*
+!docker-compose/wordpress/*.yml
+!docker-compose/wordpress/Dockerfile
+
+docker-compose/rails/*
+!docker-compose/rails/*.yml
+!docker-compose/rails/Dockerfile
+
+docker-compose/django/djangoExample
